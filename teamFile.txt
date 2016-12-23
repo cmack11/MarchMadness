@@ -1,0 +1,115 @@
+#Region: SOUTH
+6 Arizona [0]
+16 Austin Peay [0]
+#Region: WEST
+5 Baylor [0]
+#Region: SOUTH
+14 Buffalo [0]
+#Region: MIDWEST
+9 Butler [0]
+#Region: WEST
+15 CSU Bakersfield [0]
+#Region: SOUTH
+4 California [0]
+#Region: EAST
+12 Chattanooga [0]
+#Region: WEST
+9 Cincinnati [0]
+#Region: SOUTH
+8 Colorado [0]
+9 Connecticut [0]
+#Region: MIDWEST
+7 Dayton [0]
+#Region: WEST
+4 Duke [0]
+#Region: EAST
+16 FGCU [0]
+#Region: MIDWEST
+14 Fresno St. [0]
+11 Gonzaga [0]
+#Region: WEST
+14 Green Bay [0]
+#Region: MIDWEST
+16 Hampton [0]
+#Region: SOUTH
+13 Hawaii [0]
+#Region: WEST
+16 Holy Cross [0]
+#Region: EAST
+5 Indiana [0]
+#Region: MIDWEST
+13 Iona [0]
+#Region: SOUTH
+7 Iowa [0]
+#Region: MIDWEST
+4 Iowa St. [0]
+#Region: SOUTH
+1 Kansas [0]
+#Region: EAST
+4 Kentucky [0]
+#Region: MIDWEST
+12 Little Rock [0]
+#Region: SOUTH
+5 Maryland [0]
+3 Miami [0]
+#Region: EAST
+11 Michigan [0]
+#Region: MIDWEST
+2 Michigan St. [0]
+15 Middle Tennesse [0]
+#Region: EAST
+1 North Carolina [0]
+6 Notre Dame [0]
+#Region: WEST
+2 Oklahoma [0]
+1 Oregon [0]
+7 Oregon St. [0]
+#Region: EAST
+10 Pittsburgh [0]
+9 Providence [0]
+#Region: MIDWEST
+5 Purdue [0]
+#Region: EAST
+14 SF Austin [0]
+#Region: WEST
+8 Saint Joseph's [0]
+#Region: MIDWEST
+6 Seton Hall [0]
+#Region: SOUTH
+12 South Dakota St. [0]
+#Region: EAST
+13 Stony Brook [0]
+#Region: MIDWEST
+10 Syracuse [0]
+#Region: SOUTH
+10 Temple [0]
+#Region: WEST
+6 Texas [0]
+3 Texas A&M [0]
+#Region: MIDWEST
+8 Texas Tech [0]
+#Region: SOUTH
+15 UNC Asheville [0]
+#Region: WEST
+13 UNCW [0]
+11 UNI [0]
+#Region: EAST
+8 USC [0]
+#Region: MIDWEST
+3 Utah [0]
+#Region: WEST
+10 VCU [0]
+#Region: SOUTH
+2 Villanova [0]
+#Region: MIDWEST
+1 Virginia [0]
+#Region: EAST
+15 Weber St. [0]
+3 West Virginia [0]
+#Region: SOUTH
+11 Wichita St. [0]
+#Region: EAST
+7 Wisconsin [0]
+2 Xavier [0]
+#Region: WEST
+12 Yale [0]

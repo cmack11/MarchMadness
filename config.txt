@@ -1,0 +1,16 @@
+#Pricing:
+Spots Pricing: [0, 10, 15, 20, 25, 30]
+#Prizes:
+Blowout Loss Prize: 20.0
+Cinderella Prize: 10.0
+First Overtime Loss Prize: 10.0
+Pick Four Prize: [30.0, 10.0]
+Chosen Winner Prize: 20.0
+Won First Game Prize: 5.0
+Finla Four Team: 20.0
+Champion Team: 80.0
+#Region Matchups:
+WEST vs SOUTH
+EAST vs MIDWEST
+#Other:
+Leaderboard Size: 300

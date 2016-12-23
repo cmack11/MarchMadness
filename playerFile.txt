@@ -1,0 +1,76 @@
+#Player: Aaron 4
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: Bob 4
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: Brian 3
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: Cheryl 3
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: Clay 3
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: Dale 3
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: Eunice 3
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: Gary 3
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: Kaddy 4
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: Kathy 4
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: Kepner 4
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: Laura 3
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: McCarty 3
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: RJ 4
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: Steph 3
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: Steve 5
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: Taufen 3
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: Tripps 3
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
+#Player: Tyler/Brice 2
+	#Chosen Team:
+	#Owned Teams:
+	#Pick Four Teams:
